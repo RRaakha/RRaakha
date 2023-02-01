@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RRaakha
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on data science skills 
 - 📫 How to reach me on Twitter @RRaakha
 
